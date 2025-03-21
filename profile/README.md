@@ -46,10 +46,5 @@ We’ve developed a range of internal and public tools to support the design and
 
 ---
 
-## 🧙 Built with the Power of Markdown
-
-We use [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to keep our documentation clean, consistent, and easy to contribute to. Whether you're exploring fire emissions models or data automation pipelines, our goal is to make collaboration clear and accessible.
-
----
 
 For more information, visit [corporatecarbon.com.au](https://www.corporatecarbon.com.au).
